@@ -1,2 +1,17 @@
 E:\work\VisualStudio2010\Project\QQChat\QQChat\bin\Debug\QQChat.exe.config
+E:\Project\QQChat\QQChat\bin\Debug\QQChat.exe
+E:\Project\QQChat\QQChat\bin\Debug\EntityFramework.dll
+E:\Project\QQChat\QQChat\bin\Debug\EntityFramework.SqlServer.dll
 E:\Project\QQChat\QQChat\bin\Debug\QQChat.exe.config
+E:\Project\QQChat\QQChat\bin\Debug\System.Data.SQLite.dll
+E:\Project\QQChat\QQChat\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Project\QQChat\QQChat\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Project\QQChat\QQChat\bin\Debug\EntityFramework.xml
+E:\Project\QQChat\QQChat\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\QQChat\QQChat\bin\Debug\System.Data.SQLite.xml
+E:\Project\QQChat\QQChat\obj\Debug\QQChat.Properties.Resources.resources
+E:\Project\QQChat\QQChat\obj\Debug\QQChat.UI.FormLogin.resources
+E:\Project\QQChat\QQChat\obj\Debug\QQChat.csproj.GenerateResource.Cache
+E:\Project\QQChat\QQChat\obj\Debug\QQChat.exe
+E:\Project\QQChat\QQChat\obj\Debug\QQChat.pdb
+E:\Project\QQChat\QQChat\bin\Debug\QQChat.pdb

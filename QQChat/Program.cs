@@ -1,15 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using System.Windows.Forms;
+using QQChat.UI;
 namespace QQChat
 {
     class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// 应用程序的主入口点。
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
+            if (new FormLogin().ShowDialog() == DialogResult.Yes)
+            {
+                Application.Run(new Form());
+            }
         }
     }
 }

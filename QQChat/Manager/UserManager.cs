@@ -39,7 +39,18 @@ namespace QQChat.Manager
         {
             return context.USER.ToList();
         }
-
+        public USER findUser(string username,string password)
+        {
+            List<USER> users = GetList();
+            foreach (var item in users)
+            {
+                if(item.username == username && item.password == password)
+                {
+                    return item;
+                }
+            }
+            return null;
+        }
         public bool Remove(USER t)
         {
             try
